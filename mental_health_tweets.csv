@@ -1,0 +1,80 @@
+date,tweet_text,sentiment,category,likes,retweets,location
+2020-03-15,"Feeling anxious about the lockdown. Everything feels uncertain #COVID19 #mentalhealth",negative,anxiety,45,12,USA
+2020-03-18,"Taking care of my mental health during these tough times. Remember to breathe and stay positive",positive,wellness,234,67,UK
+2020-03-22,"Depression hitting hard today. Can't seem to get out of bed #lockdown #depression",negative,depression,89,23,Canada
+2020-04-01,"Started meditation and it's really helping with my anxiety. Highly recommend! #selfcare",positive,wellness,456,123,USA
+2020-04-10,"Feeling isolated and alone. Miss seeing my friends and family #socialdistancing #lonely",negative,loneliness,178,45,Australia
+2020-04-15,"Therapy sessions online are working well for me. So grateful for technology #mentalhealth",positive,therapy,312,89,UK
+2020-05-03,"Pandemic anxiety is real. Heart racing, can't focus on anything #anxiety #COVID19",negative,anxiety,267,71,USA
+2020-05-12,"Finding joy in small things. Morning walks are keeping me sane #wellness #positivity",positive,wellness,534,142,Canada
+2020-05-20,"Struggling with panic attacks more frequently now. This is exhausting #panicattack",negative,anxiety,145,38,USA
+2020-06-01,"Started keeping a gratitude journal. It's helping me stay grounded #mentalhealth #selfcare",positive,wellness,423,112,UK
+2020-06-15,"The uncertainty is overwhelming. When will this end? #COVID19 #stress",negative,stress,298,76,Australia
+2020-06-28,"Video calls with therapist are a lifesaver. Don't hesitate to seek help #therapy",positive,therapy,389,98,USA
+2020-07-05,"Feeling hopeless today. Everything seems pointless #depression #mentalhealth",negative,depression,156,42,Canada
+2020-07-18,"Exercise has become my therapy. Running helps clear my mind #fitness #mentalwellness",positive,wellness,612,167,USA
+2020-07-25,"Can't sleep at night, anxiety keeps me awake. Exhausted during the day #insomnia #anxiety",negative,anxiety,223,59,UK
+2020-08-02,"Started painting during lockdown. Art therapy is amazing for mental health #creativity",positive,wellness,445,118,Australia
+2020-08-14,"Missing human connection. Zoom fatigue is real #isolation #lonely",negative,loneliness,334,87,USA
+2020-08-29,"Meditation app subscription was the best decision. Feeling more centered #mindfulness",positive,wellness,578,153,UK
+2020-09-10,"Seasonal depression plus pandemic stress. Double trouble #depression #SAD",negative,depression,201,54,Canada
+2020-09-22,"Support groups online have been incredible. We're all in this together #support #mentalhealth",positive,support,467,124,USA
+2020-10-05,"Worrying about everything constantly. Can't turn my brain off #anxiety #worry",negative,anxiety,289,75,UK
+2020-10-18,"Therapist taught me great coping strategies. Feeling more in control #therapy #progress",positive,therapy,523,139,USA
+2020-11-01,"The second lockdown announcement broke me. Back to square one #lockdown #despair",negative,depression,412,109,UK
+2020-11-15,"Grateful for my support system. Friends checking in means everything #gratitude",positive,support,634,168,Australia
+2020-11-28,"Holiday season feels different this year. Missing family gatherings #sadness #holidays",negative,loneliness,378,99,USA
+2020-12-10,"Found an amazing online support community. Finally feel understood #community #mentalhealth",positive,support,489,129,Canada
+2020-12-24,"Spending holidays alone due to restrictions. Heart heavy #loneliness #christmas",negative,loneliness,445,117,UK
+2021-01-05,"New year, same anxiety. But I'm committed to healing #newyear #mentalhealth",neutral,anxiety,556,147,USA
+2021-01-20,"Therapy breakthrough today! Finally understanding my triggers #therapy #healing",positive,therapy,678,179,USA
+2021-02-03,"Burnout is real. Working from home blurred all boundaries #burnout #stress",negative,stress,501,133,Canada
+2021-02-17,"Self-care Sunday routine is keeping me sane. Bubble baths and books #selfcare",positive,wellness,723,192,UK
+2021-03-01,"One year into pandemic. Still struggling but I'm still here #survivor #mentalhealth",neutral,reflection,812,215,USA
+2021-03-15,"Spring brings hope. Feeling slightly better with longer days #hope #spring",positive,wellness,645,171,Australia
+2021-03-28,"Anxiety about returning to normal. Is that weird? #anxiety #postpandemic",negative,anxiety,423,112,USA
+2021-04-10,"Vaccine gave me hope. Light at the end of the tunnel #hope #vaccine",positive,wellness,789,209,UK
+2021-04-25,"Still dealing with trauma from the past year. Seeking professional help #trauma #therapy",neutral,therapy,534,142,Canada
+2021-05-08,"Mental health awareness month reminder: it's okay to not be okay #mentalhealth",positive,awareness,901,239,USA
+2021-05-22,"Grief is complicated. Lost loved ones and lost time #grief #loss",negative,grief,367,97,UK
+2021-06-05,"Slowly rebuilding my life. Baby steps count as progress #recovery #hope",positive,wellness,712,189,USA
+2021-06-19,"Social anxiety worse after isolation. Relearning how to interact #socialanxiety",negative,anxiety,456,121,Australia
+2021-07-02,"Proud of how far I've come in my mental health journey #progress #proud",positive,wellness,834,221,USA
+2021-07-16,"Post-pandemic adjustment is harder than expected #adjustment #stress",negative,stress,523,139,Canada
+2021-07-30,"Nature walks are my therapy. Reconnecting with outdoors #nature #healing",positive,wellness,678,180,UK
+2021-08-12,"Delta variant news triggering old anxieties. Here we go again #anxiety #COVID19",negative,anxiety,612,162,USA
+2021-08-26,"Building resilience one day at a time. I'm stronger than I thought #resilience",positive,wellness,745,197,Australia
+2021-09-09,"Back to therapy. No shame in needing help again #therapy #mentalhealth",positive,therapy,823,218,USA
+2021-09-23,"Feeling overwhelmed by world events. Need a break from news #overwhelmed #stress",negative,stress,489,129,UK
+2021-10-07,"Grateful for mental health resources available online #gratitude #resources",positive,support,656,174,Canada
+2021-10-21,"Halloween plans giving me joy. First social event in ages #joy #hope",positive,wellness,712,189,USA
+2021-11-04,"Seasonal changes affecting my mood again. Prepared this time #SAD #awareness",neutral,depression,534,142,UK
+2021-11-18,"Support from online friends kept me going. Thank you all #community #support",positive,support,867,230,USA
+2021-12-02,"Setting boundaries for holiday season. Protecting my peace #boundaries #selfcare",positive,wellness,789,209,Australia
+2021-12-16,"Two years ago life was so different. Processing all the changes #reflection",neutral,reflection,645,171,USA
+2021-12-30,"Ending year with hope. Tomorrow is a new beginning #hope #newyear",positive,wellness,923,245,UK
+2022-01-13,"New year anxiety kicking in. But I have tools to cope now #anxiety #coping",neutral,anxiety,578,153,USA
+2022-01-27,"Therapy helped me understand my pandemic trauma response #therapy #healing",positive,therapy,734,195,Canada
+2022-02-10,"Love yourself first. Best advice my therapist gave me #selflove #mentalhealth",positive,wellness,845,224,USA
+2022-02-24,"Still processing everything we've been through collectively #processing #mentalhealth",neutral,reflection,623,165,UK
+2022-03-09,"Spring cleaning my mental health. Letting go of what doesn't serve me #growth",positive,wellness,756,201,Australia
+2022-03-23,"Two years since first lockdown. Survivor's pride #anniversary #survivor",positive,reflection,912,242,USA
+2022-04-06,"Anxiety managed, depression lifting. Finally seeing progress #progress #hope",positive,wellness,801,212,USA
+2022-04-20,"Grateful for the lessons learned about mental health #gratitude #lessons",positive,wellness,689,183,Canada
+2022-05-04,"Mental health matters every day, not just in May #awareness #mentalhealth",positive,awareness,923,245,UK
+2022-05-18,"Sharing my story to help others. We're not alone #community #support",positive,support,867,230,USA
+2022-06-01,"Living with anxiety but not letting it control me anymore #empowerment #growth",positive,wellness,778,206,Australia
+2022-06-15,"Therapy graduation! Continuing the work on my own now #therapy #milestone",positive,therapy,945,251,USA
+2022-06-29,"Some days are harder than others. That's okay #acceptance #mentalhealth",neutral,wellness,612,162,UK
+2022-07-13,"Building a life I don't need to escape from #healing #growth",positive,wellness,1023,271,USA
+2022-07-27,"Mental health journey is not linear. Being patient with myself #patience #selfcompassion",positive,wellness,834,221,Canada
+2022-08-10,"Proud of everyone who fought their battles silently #support #mentalhealth",positive,support,956,253,UK
+2022-08-24,"Finding peace in the present moment. Mindfulness works #mindfulness #peace",positive,wellness,712,189,USA
+2022-09-07,"Three years of growth and healing. Worth every step #progress #gratitude",positive,wellness,889,236,Australia
+2022-09-21,"Supporting friends through their mental health struggles now #support #community",positive,support,745,197,USA
+2022-10-05,"Autumn doesn't trigger sadness anymore. Growth is beautiful #growth #healing",positive,wellness,823,218,UK
+2022-10-19,"Normalized therapy in my circle. Everyone deserves support #therapy #awareness",positive,therapy,901,239,USA
+2022-11-02,"Holidays approaching with peace this year. Proud of my progress #peace #holidays",positive,wellness,778,206,Canada
+2022-11-16,"Mental health toolkit fully stocked. Ready for anything #prepared #resilience",positive,wellness,845,224,USA
+2022-11-30,"Thankful for my healing journey. Transformed by challenges #gratitude #transformation",positive,wellness,967,256,UK
+2022-12-14,"Ending this chapter stronger and wiser #strength #wisdom",positive,wellness,912,242,Australia

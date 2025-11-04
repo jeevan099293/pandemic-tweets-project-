@@ -1,0 +1,38 @@
+{
+  "total_tweets": 79,
+  "date_range": {
+    "start": "2020-03-15",
+    "end": "2022-12-14"
+  },
+  "sentiment_distribution": {
+    "positive": 50,
+    "negative": 21,
+    "neutral": 8
+  },
+  "sentiment_percentages": {
+    "positive": 63.3,
+    "negative": 26.6,
+    "neutral": 10.1
+  },
+  "top_categories": {
+    "wellness": 32,
+    "anxiety": 10,
+    "therapy": 9,
+    "support": 8,
+    "depression": 5
+  },
+  "total_engagement": {
+    "likes": 47931,
+    "retweets": 12709
+  },
+  "avg_engagement": {
+    "likes": 606.72,
+    "retweets": 160.87
+  },
+  "locations": {
+    "USA": 33,
+    "UK": 21,
+    "Canada": 13,
+    "Australia": 12
+  }
+}
