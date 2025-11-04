@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: mental-health-tweets-dashboard
+    runtime: static
+    buildCommand: pip install -r requirements.txt && python generate_data.py
+    staticPublishPath: .
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
